@@ -58,4 +58,6 @@ Frontend sends request to backend
 Backend analyzes input using phishing detection logic
 System classifies input as safe or phishing
 Result is displayed on dashboard
+
+
 run: mvn clean spring-boot:run
